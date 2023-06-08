@@ -6,7 +6,7 @@
 <img src = "https://img.shields.io/badge/Documentation-yes-36B807?style=for-the-badge&logo=version"  width="13%" height="10%">
 <img src = "https://img.shields.io/badge/Maintained-yes-27FF09?style=for-the-badge&logo=version"  width="11%" height="10%">
 <img src = "https://img.shields.io/badge/Lincence-MIT-FFC65A?style=for-the-badge&logo=version"  width="9.5%" height="10%">
-<img src = "https://img.shields.io/badge/LinekdIn- @ Rakesh Kalita-1D1FCC?style=for-the-badge&logo=LinkedIn"width="18%" height="%20" > </h2>
+<img src = "https://img.shields.io/badge/LinekdIn- @ Rajat chaudhary-1D1FCC?style=for-the-badge&logo=LinkedIn"width="18%" height="%20" > </h2>
 <h4 style ="color:gray;"> | CLI that generates beautiful README.md files.</h4>
 
 <h1 style ="color:blue;"> <img src="https://em-content.zobj.net/thumbs/120/apple/354/house_1f3e0.png"width="4%" height="4%">      <b>  Homepage</h1> 
